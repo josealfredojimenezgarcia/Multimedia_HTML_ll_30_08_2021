@@ -1,8 +1,8 @@
 body {
 background: greenyellow;
 margin: 5%;
-
 }
+
 h1, h3, b{
 background: indigo;
 color:#e0ffff;
@@ -10,11 +10,11 @@ border-radius:20px;
 text-align: center;
 }
 
-label, b{
+label {
 background: indigo;
-color:darkblue;
+color:#050507, 2%;
 border-radius:20px;
-text-align: left;
+text-align:left;
 }
 /* .video{
   display: flex;
