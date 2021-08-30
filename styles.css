@@ -1,0 +1,23 @@
+body {
+background: greenyellow;
+margin: 5%;
+
+}
+h1, h3, b{
+background: indigo;
+color:#e0ffff;
+border-radius:20px;
+text-align: center;
+}
+
+label, b{
+background: indigo;
+color:darkblue;
+border-radius:20px;
+text-align: left;
+}
+/* .video{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
